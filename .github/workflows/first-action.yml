@@ -8,5 +8,5 @@ jobs:
         run: echo "hello world"
       - name: Print Goodbye
         run: |
-        echo "something is running 1"
-        echo "something is running 2"
+          echo "something is running 1"
+          echo "something is running 2"
